@@ -32,7 +32,7 @@ A blockchain-based decentralized application for issuing, verifying, and managin
 ## Installation
 
 1. Clone the repository:
-   
+   ```
    git clone  <repository-url>
   
 
